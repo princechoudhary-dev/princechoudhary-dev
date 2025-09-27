@@ -5,7 +5,7 @@
 🚀 Open to collaborations, internships, and open-source contributions  
 
 ## 🚀 Skills & Technologies
-- Languages: JavaScript, Python, C++  
+- Languages: JavaScript, C++  
 - Frontend: HTML, CSS, React.js, Tailwind CSS  
 - Backend: Node.js, Express.js  
 - Databases: MongoDB, MySQL  
